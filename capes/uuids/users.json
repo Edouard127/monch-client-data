@@ -14,7 +14,7 @@
       },
       {
         "cape_uuid": "58d85",
-        "player_uuid": "8103c0f5-b5d8-447a-843d-dabfc6950997",
+        "player_uuid": "77c7df7d-e8af-4f2b-80fd-4219cc602d29",
         "type": "DEV",
         "color": {
           "primary": "e523ef",
@@ -214,6 +214,22 @@
         "cape_uuid": "58d85",
         "player_uuid": "8103c0f5-b5d8-447a-843d-dabfc6950997",
         "type": "DEV",
+        "color": {
+          "primary": "969696",
+          "border": "787878",
+          "alpha": 60
+        }
+      }
+    ],
+    "is_premium": true
+  },
+    {
+    "id": 726799254021996565,
+    "capes": [
+      {
+        "cape_uuid": "58d85",
+        "player_uuid": "e386a110-8c80-4224-84ad-2ff2ace88f31",
+        "type": "BREAD",
         "color": {
           "primary": "969696",
           "border": "787878",
